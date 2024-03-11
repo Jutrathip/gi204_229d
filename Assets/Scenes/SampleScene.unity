@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 43996545}
   - component: {fileID: 43996544}
   m_Layer: 0
-  m_Name: Wings Left
+  m_Name: Wings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -288,8 +288,8 @@ Transform:
   m_Children:
   - {fileID: 424612417}
   - {fileID: 43996543}
-  - {fileID: 655620268}
   - {fileID: 297445533}
+  - {fileID: 655620268}
   - {fileID: 1475039947}
   - {fileID: 1258215186}
   - {fileID: 659643600}
@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 297445535}
   - component: {fileID: 297445534}
   m_Layer: 0
-  m_Name: Wings Left (1)
+  m_Name: Wings (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -640,7 +640,7 @@ GameObject:
   - component: {fileID: 655620270}
   - component: {fileID: 655620269}
   m_Layer: 0
-  m_Name: Wings Left (2)
+  m_Name: Wings (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 1475039949}
   - component: {fileID: 1475039948}
   m_Layer: 0
-  m_Name: Wings Left (3)
+  m_Name: Wings (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
